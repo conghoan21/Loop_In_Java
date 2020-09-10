@@ -24,7 +24,7 @@ public class vehinh {
                             System.out.print("*");
                         }
                     }
-                    System.out.println("\n");
+                    System.out.println("");
                 }
                 break;
             case 2:
@@ -33,7 +33,7 @@ public class vehinh {
                     for(int j=1; j<=i; j++){
                         System.out.print("*");
                     }
-                    System.out.println("\n");
+                    System.out.println("");
                 }
                 break;
             case 3:
@@ -42,7 +42,7 @@ public class vehinh {
                     for(int j=1;j<=i;j++){
                         System.out.print("*");
                     }
-                    System.out.println("\n");
+                    System.out.println();
                 }
                 break;
             case 4:
