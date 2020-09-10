@@ -59,6 +59,15 @@ public class vehinh {
                     }
                     System.out.println();
                 }
+                break;
+            case 0:
+                System.exit(0);
+            default:
+                System.out.println("No choice!");
+        }
+        while(choice!= 0) {
+
         }
     }
+
 }
