@@ -26,8 +26,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../IntroctionToJava" />
   </component>
   <component name="RunManager">
-    <configuration name="prime1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prime1" />
+    <configuration name="prime2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prime2" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -46,7 +46,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.prime1" />
+        <item itemvalue="Application.prime2" />
       </list>
     </recent_temporary>
   </component>
@@ -62,7 +62,7 @@
       <workItem from="1599712342534" duration="85000" />
       <workItem from="1599712453547" duration="6093000" />
       <workItem from="1599732220988" duration="1240000" />
-      <workItem from="1599751065655" duration="4296000" />
+      <workItem from="1599751065655" duration="4963000" />
     </task>
     <servers />
   </component>
@@ -70,34 +70,34 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="254" y="85" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599755396729">
+    <state x="254" y="85" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599756070245">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="254" y="85" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1599755396729" />
-    <state x="529" y="220" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1599755394094">
+    <state x="254" y="85" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1599756070245" />
+    <state x="529" y="220" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1599756068568">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="529" y="220" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1600.860@0.0.1600.860" timestamp="1599755394094" />
+    <state x="529" y="220" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1600.860@0.0.1600.860" timestamp="1599756068568" />
     <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1599713419204">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1599713419204" />
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1599755386148">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1599755575833">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1599755386148" />
-    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1599755386147">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1599755575833" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1599755575833">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1599755386147" />
-    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1599755386147">
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1599755575833" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1599755575832">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1599755386147" />
-    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1599755386147">
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1599755575832" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1599755575833">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1599755386147" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1599755575833" />
     <state x="182" y="50" key="new project wizard" timestamp="1599712472136">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
